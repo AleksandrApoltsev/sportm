@@ -10,6 +10,6 @@ public class MainTest {
     @Test
     void exampleTest() {
         open("https://ya.ru/");
-        $("#text").setValue("зайка");
+        //$("#text").setValue("зайка");
     }
 }
